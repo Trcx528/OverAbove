@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverAbove", "OverAbove\OverAbove.csproj", "{7A822809-B8BB-4237-BE0A-0FEAE05D28EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A822809-B8BB-4237-BE0A-0FEAE05D28EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A822809-B8BB-4237-BE0A-0FEAE05D28EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A822809-B8BB-4237-BE0A-0FEAE05D28EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A822809-B8BB-4237-BE0A-0FEAE05D28EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0C3DA1-F982-40E8-AB5C-C77FC3958497}
+	EndGlobalSection
+EndGlobal
